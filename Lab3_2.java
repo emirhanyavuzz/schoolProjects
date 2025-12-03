@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lab32
+public class Lab3_2
 {
  public static void main (String[]args)
   { 
@@ -43,5 +43,6 @@ public class lab32
        else
         System.out.println("Notunuz: " + dortort);
   }
+
 
 }
