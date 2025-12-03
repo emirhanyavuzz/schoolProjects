@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lab42
+public class Lab4_2
 {
  public static void main(String[] args)
   {
@@ -9,4 +9,5 @@ public class lab42
 
 
   }
+
 }
