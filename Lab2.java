@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lab2
+public class Lab2
 {
  public static void main(String[] args)
  {
@@ -39,3 +39,4 @@ public class lab2
   System.out.print("\'dir");
  }
 }
+
