@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lab10
+public class Lab10
 {
  public static void main(String[]args)
  {
@@ -22,3 +22,4 @@ public class lab10
 	return reverseString(str.substring(1)) + str.charAt(0);
   }
  }
+
