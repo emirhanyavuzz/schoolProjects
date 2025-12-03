@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class faiz1 {
+public class InterestCalculator {
 	public static void main(String[]args)
 	{
 		Scanner kb = new Scanner(System.in);
@@ -65,3 +65,4 @@ public class faiz1 {
 		return lastMoney;
 	}
 }
+
