@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class lab9 
+public class Lab9 
 {
  public static void main(String[] args)
  {
@@ -50,3 +50,4 @@ public class lab9
 	   return devrikArray;
 	 }	 
 }
+
