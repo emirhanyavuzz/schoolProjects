@@ -1,11 +1,11 @@
-🧪 **Uni Lab Works**
+ **Üniversite Lab Çalışmaları**
 
 Bu repo, üniversite boyunca tamamladığım laboratuvar çalışmalarını, ödevleri ve deney raporlarını derli toplu şekilde saklamak için oluşturulmuştur. Her dosya, ilgili dersin laboratuvar haftalarını ve çözümlerini içerir.
 
-🎯 **Amaç** 
+ **Amaç** 
 
 Öğrenme sürecimi düzenli bir yapıda tutmak, gerektiğinde hızlıca gözden geçirmek ve gelecekteki projelere temel oluşturmak.
 
-📂 **İçerik**
+ **İçerik**
 
 C ve Java derslerindeki lab uygulamaları
